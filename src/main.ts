@@ -10,7 +10,7 @@ import {
 	DEFAULT_SETTINGS,
 	MyPluginSettings,
 	SampleSettingTab,
-} from './settings';
+} from './settings.js';
 
 // Remember to rename these classes and interfaces!
 
